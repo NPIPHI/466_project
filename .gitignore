@@ -1,0 +1,6 @@
+cmake-build-debug/
+cmake-build-default/
+cmake-build-release/
+plots/
+build/
+.idea/
